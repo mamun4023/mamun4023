@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @mamun4023
-- 👀 I’m interested in web application
-- 🌱 I’m currently learning nodejs
-- 💞️ I’m looking to collaborate on new project 
 
-<!---
-mamun4023/mamun4023 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+I am Mamunur Rashid Computer Science & Engineering student. As a
+fresher, I am interested in web application and love to learn from UI
+design to deployment of the software system.I’m currently learning Rest API.  Happiness comes in my
+mind whenever I can compile the code without error. My devotion is to
+improve technology with my contribution and give it to the world.
