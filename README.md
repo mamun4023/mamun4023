@@ -10,7 +10,7 @@ my contribution and give it to the world.
 
 <div>
   <pre>
-Thanks 
+Contact 
 Mamunur Rashid
 mamun.duetcse16@gmail.com
 skype : mamun4023
