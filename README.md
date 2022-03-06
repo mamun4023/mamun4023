@@ -10,9 +10,13 @@ my contribution and give it to the world.
 
 <div>
   <pre>
-Contact 
-Mamunur Rashid
-mamun.duetcse16@gmail.com
+Contact Details
+<hr/>
+Name : Mamunur Rashid
+Email : mamun.duetcse16@gmail.com
+Phone : +8801734754023
+whatsApp : +8801734754023
 skype : mamun4023
+https://www.linkedin.com/in/mamunur-rashid-a0158b1b0/
 </pre>
 </div>
